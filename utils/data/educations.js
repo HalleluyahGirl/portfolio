@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2023 - Present",
+    institution: "Jain University Of Technology, Baglore, India",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "O'level and SSCE",
+    duration: "2016 - 2022",
+    institution: "Total Gospel Highschool, Aba, Abia State Nigeria",
   },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+  // {
+  //   id: 3,
+  //   title: "",
+  //   duration: "2008 - 2018",
+  //   institution: "Baitus Saif Islamia Madrasah",
+  // }
+];
